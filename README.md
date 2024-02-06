@@ -1,4 +1,5 @@
-# TTDS_FastAPI -- Updating
+# TTDS_FastAPI 
+🚫🚫🚫
 This is an **introductory tutorial** about fastapi.
 
 This tutorial is **just for my personal course work only.** So I will **stop** updating the tutorial when I think it covers enough knowledge to complete the assignment
